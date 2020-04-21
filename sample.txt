@@ -1,0 +1,7 @@
+     hello!today we 	will introduce regular expressions.so what are regular
+expressions?regular expressions called REs or regexes or
+regex patterns are     are are essentially a tiny highly specialized
+programming          language embedded inside Python. Now
+that we have looked at    some some simple regular expressions
+how do we actually use them in Python?the re module
+provides            an interface to the regular expression engine.
